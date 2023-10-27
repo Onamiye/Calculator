@@ -1,3 +1,6 @@
+#code originally written for 100 days of code challenge
+#this program performs arithmetic operations on two numbers initially and optionally, performs more operations on the result generated from the previous calculation.
+
 def add(n1,n2):
   return (n1+n2)
 
